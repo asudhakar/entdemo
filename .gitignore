@@ -1,0 +1,10 @@
+*.out
+.idea
+.DS_Store
+
+#Vendor Folder
+*/vendor
+
+/vendor
+
+*.test
